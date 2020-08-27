@@ -1,4 +1,4 @@
-### Hi there 👋
+### 世界のすみっこからこんにちは
 
 <!--
 **i19fukuda/i19fukuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
